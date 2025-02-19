@@ -15,5 +15,5 @@ We aim to develop:
 - **Aesthetic-driven experiences** with a focus on **atmosphere and feel**.
 - **High-quality craftsmanship**, prioritizing depth over quantity.
 - **Independence & innovation**, forging our own path in game development.
-- 
+  
 **[Sordes](https://sordes.io)**
