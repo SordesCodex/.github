@@ -6,7 +6,7 @@
 Sordes (Latin for **"dirt" or "filth"**) embodies the **raw, unfiltered pursuit of excellence** in game development. We believe in creating **highly polished and engaging** games that challenge players and push creative boundaries.
 
 ### **🛠 Current Projects**
-- **[Clangor](https://github.com/SordesCodex/clangor)** – A **neon-futuristic rhythm-based catch game** built with **PhaserJS**.  
+- **Clangor** – A **neon-futuristic rhythm-based catch game** built with **PhaserJS**.  
   *(Status: Early Development)*  
 
 ### **📌 Our Vision**
@@ -16,4 +16,4 @@ We aim to develop:
 - **High-quality craftsmanship**, prioritizing depth over quantity.
 - **Independence & innovation**, forging our own path in game development.
 - 
-**SordesCodex** – Crafting worlds. Defining experiences. 🎮✨
+**[Sordes](https://sordes.io)**
